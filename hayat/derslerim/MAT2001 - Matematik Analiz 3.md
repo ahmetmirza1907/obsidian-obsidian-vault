@@ -6,7 +6,7 @@
 - Kaynaklar: 
 
 ## 📚 Konular
-- [ ] Çok değişkenli fonksiyonlar
+- [ ] **Çok Değişkenli Fonksiyonlar ve Uzay Geometrisi** (_Multivariable Functions and Space Geometry_)
 - [ ] Kısmi türevler
 - [ ] Çok katlı integraller
 - [ ] Vektör analizi
