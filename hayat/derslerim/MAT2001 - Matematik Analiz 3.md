@@ -13,5 +13,5 @@
 - [ ] Seriler
 
 ## 📝 Notlar
-![[mat analiz.pdf]]
+
 ## ❓ Anlamadıklarım
