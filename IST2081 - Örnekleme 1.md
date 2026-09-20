@@ -1,7 +1,7 @@
 # Örnekleme 1
 
 ## 📌 Genel Bilgi
-- Hoca: 
+- Hoca: filiz karaman
 - Sınav tarihleri: 
 - Kaynaklar: 
 
