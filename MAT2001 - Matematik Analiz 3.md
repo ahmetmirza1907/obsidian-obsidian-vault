@@ -1,7 +1,7 @@
 # Matematiksel Analiz 3
 
 ## 📌 Genel Bilgi
-- Hoca: 
+- Hoca: seda kızılbudak
 - Sınav tarihleri: 
 - Kaynaklar: 
 
