@@ -1,0 +1,1 @@
+ --- aliases: - Annem tags: - cevre/aile - cember/1 phone: "+90 505 040 69 70" --- # Annem #cevre/aile #cember/1 - **Telefon:** `+90 505 040 69 70` - **İlişki / Dinamik:** Çok yakın. Babam cezaevinde olduğu için evin tüm yükü, benim ve kardeşimin sorumluluğu onda. - **Bağlantılar:** [[Kişi - Babam]], [[Kişi - Zeynep Zümra]], [[akrabalarım]]

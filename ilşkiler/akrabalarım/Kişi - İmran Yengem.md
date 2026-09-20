@@ -1,0 +1,1 @@
+=== DOSYA: Kişi - İmran Yengem.md === --- aliases: - İmran Yengem tags: - cevre/akraba - cember/5 --- # İmran Yengem #cevre/akraba #cember/5 - **İlişki / Dinamik:** Mehmet dayımın eşi. Kibirli, insanlara üstten bakan, sadece kendi doğrusuna inanan bir profil. - **Bağlantılar:** [[Kişi - Mehmet Emin Aydoğdu]], [[akrabalarım]]

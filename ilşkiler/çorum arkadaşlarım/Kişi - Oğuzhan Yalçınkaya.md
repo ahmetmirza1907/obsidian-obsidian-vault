@@ -1,0 +1,1 @@
+--- title: Oğuzhan Yalçınkaya type: person category: arkadas circle: 3 phone: "+90 545 928 05 35" status: active --- # Oğuzhan Yalçınkaya - **Telefon:** `+90 545 928 05 35` - **İlişki / Dinamik:** Alacalı. Hayata bakış açımız bambaşkadır, gelenekselci olduğundan hiçbir görüşümüz uyuşmaz. - **Bağlantılar:** [[Çorum arkadaşlarım]]

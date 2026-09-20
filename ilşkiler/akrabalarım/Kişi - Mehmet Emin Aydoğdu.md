@@ -1,0 +1,1 @@
+# Mehmet Emin Aydoğdu #cevre/akraba #cember/5 - **Telefon:** `+90 505 787 63 68` - **İlişki / Dinamik:** Dayım. Yakınız, arada arar sorar. Eşinin sözünden çıkmaz, özgüvensizliğinden ötürü çoğu şeyi sorgular. - **Bağlantılar:** [[Kişi - İmran Yengem]], [[Kişi - Anneannem (Hamide Aydoğdu)]], [[akrabalarım]]

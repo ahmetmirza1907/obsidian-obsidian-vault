@@ -1,0 +1,1 @@
+ aliases: - Kardeşim tags: - cevre/aile - cember/1 --- # Zeynep Zümra #cevre/aile #cember/1 - **İlişki / Dinamik:** Canım kardeşim. - **Bağlantılar:** [[Kişi - Annem]], [[Kişi - Babam]], [[akrabalarım]]

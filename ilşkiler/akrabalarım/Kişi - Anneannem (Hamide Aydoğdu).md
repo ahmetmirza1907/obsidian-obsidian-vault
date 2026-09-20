@@ -1,0 +1,1 @@
+--- aliases: - Anneannem - Hamide Aydoğdu tags: - cevre/akraba - cember/2 phone: "+90 551 066 66 22" --- # Anneannem (Hamide Aydoğdu) #cevre/akraba #cember/2 - **Telefon:** `+90 551 066 66 22` - **İlişki / Dinamik:** Seviyorum, anaç ve koruyucu bir yapısı var. - **Bağlantılar:** [[Kişi - Mehmet Emin Aydoğdu]], [[Kişi - Sema Teyzem]], [[Kişi - İbrahim Dayım]], [[akrabalarım]]

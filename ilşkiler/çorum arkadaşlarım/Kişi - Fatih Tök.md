@@ -1,0 +1,1 @@
+# Fatih Tök - **Telefon:** `+90 505 723 98 97` - **İlişki / Dinamik:** İyi çocuktur, bazı yapmacıklığı bazı zorbalığı tutabilir. O da spor yapıyor, tutturabildiğine yalan söyler. - **Bağlantılar:** [[Fiziksel Güç ve Rutin]], [[Çorum arkadaşlarım]]

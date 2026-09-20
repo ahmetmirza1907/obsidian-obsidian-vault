@@ -1,0 +1,1 @@
+--- aliases: - Babam tags: - cevre/aile - cember/1 phone: "+90 555 015 66 19" --- # Babam #cevre/aile #cember/1 - **Telefon:** `+90 555 015 66 19` - **İlişki / Dinamik:** Cezaevinde. Yakınız ancak birbirimizi pek anlamıyoruz; frekanslar uyuşmuyor, sürekli nasihat veriyor. - **Bağlantılar:** [[Kişi - Annem]], [[Kişi - Zeynep Zümra]], [[Kişi - Bayram Amcam]], [[akrabalarım]]

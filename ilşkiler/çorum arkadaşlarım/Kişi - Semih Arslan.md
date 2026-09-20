@@ -1,0 +1,1 @@
+ --- title: Semih Arslan type: person category: arkadas circle: 1 status: active --- # Semih Arslan - **İlişki / Dinamik:** Çok zeki olduğunu düşündüğüm canım arkadaşım. İnsan ilişkilerinde kötü, üstüne gidene tamah eder, aşağılık psikolojisi vardır, herkese çabucak bağlanabilir. - **Bağlantılar:** [[Çorum arkadaşlarım]][[Fiziksel Güç ve Rutin]]

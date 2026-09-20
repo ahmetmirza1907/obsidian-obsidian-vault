@@ -1,0 +1,1 @@
+# Mali Atak - **Telefon:** `+90 552 264 20 05` - **İlişki / Dinamik:** 11. sınıftan beri arkadaşım. Dostane tavır sergiler, 3. bir kişi girdiği zaman şımarır. - **Bağlantılar:** [[Çorum arkadaşlarım]], [[Kişi - Mıstık]], [[Kişi - Egeberk Çakmak]]

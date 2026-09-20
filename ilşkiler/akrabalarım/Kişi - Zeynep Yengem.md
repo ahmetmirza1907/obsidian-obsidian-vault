@@ -1,0 +1,1 @@
+=== DOSYA: Kişi - Zeynep Yengem.md === --- aliases: - Zeynep Yengem tags: - cevre/akraba - cember/5 --- # Zeynep Yengem #cevre/akraba #cember/5 - **İlişki / Dinamik:** İbrahim dayımın eşi. Yakın değiliz; Çorum'a ziyarete gelmezler. - **Bağlantılar:** [[Kişi - İbrahim Dayım]], [[akrabalarım]]

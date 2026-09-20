@@ -1,0 +1,1 @@
+--- aliases: - Babaannem tags: - cevre/akraba - cember/2 phone: "+90 530 977 84 85" --- # Babaannem #cevre/akraba #cember/2 - **Telefon:** `+90 530 977 84 85` - **İlişki / Dinamik:** Hayatta. Çok yakın bir bağımız yok ama aramızda sevgi baki. Bakımı ve ilgisi amcam ile halamda. - **Bağlantılar:** [[Kişi - Bayram Amcam]], [[Kişi - Satı Halam]], [[Kişi - Babam]], [[akrabalarım]]

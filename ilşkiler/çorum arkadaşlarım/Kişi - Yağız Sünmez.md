@@ -1,0 +1,1 @@
+=== DOSYA: Kişi - Yağız Sünmez.md === --- title: Yağız Sünmez type: person category: arkadas circle: 3 phone: "+90 552 566 05 52" status: active --- # Yağız Sünmez - **Telefon:** `+90 552 566 05 52` - **İlişki / Dinamik:** 11. sınıftan beri arkadaşım. Önceden iyi olan aramız yüksek kibrinden dolayı kötüleşti. - **Bağlantılar:** [[Çorum arkadaşlarım]]

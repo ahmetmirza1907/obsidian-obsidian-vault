@@ -1,0 +1,1 @@
+--- aliases: - Yunus tags: - cevre/akraba - cember/4 phone: "+90 541 733 92 77" --- # Yunus Genç #cevre/akraba #cember/4 - **Telefon:** `+90 541 733 92 77` - **İlişki / Dinamik:** Halamın oğlu (~20 yaş fark). Eski savcı, evde çocuklarına bakıyor. Egosu yüksek ama merhametli. - **Bağlantılar:** [[Kişi - Satı Halam]], [[Kişi - Abdullah Genç]], [[Akrabalarım]]

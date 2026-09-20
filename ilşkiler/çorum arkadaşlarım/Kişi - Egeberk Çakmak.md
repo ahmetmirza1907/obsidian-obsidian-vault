@@ -1,0 +1,1 @@
+--- title: Egeberk Çakmak type: person category: arkadas circle: 2 phone: "+90 552 538 19 00" status: active --- # Egeberk Çakmak - **Telefon:** `+90 552 538 19 00` - **İlişki / Dinamik:** 11. sınıftan beri arkadaşız. Çok konuşur boş konuşur, iyidir cana yakındır, ihtiyacın olduğu yerlerde mesafesini koyan insandır. - **Bağlantılar:** [[Çorum arkadaşlarım]]
