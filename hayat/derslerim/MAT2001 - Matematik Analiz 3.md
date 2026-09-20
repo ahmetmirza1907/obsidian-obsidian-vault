@@ -14,4 +14,5 @@
 
 ## 📝 Notlar
 
+![[mat-analiz3 1.pdf]]
 ## ❓ Anlamadıklarım
