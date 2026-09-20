@@ -1,7 +1,7 @@
 # Matematiksel İstatistik
 
 ## 📌 Genel Bilgi
-- Hoca: 
+- Hoca: atıf ahmet evren
 - Sınav tarihleri: 
 - Kaynaklar: 
 
