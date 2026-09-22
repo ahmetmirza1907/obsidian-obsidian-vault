@@ -7,3 +7,4 @@ https://nazalivakfi.com/panel
 https://www.bursiyer.com.tr/tekinder/basvuru-sonuc.html
 https://www.bursiyer.com.tr/tekinder/basvuru-sonuc.html
 https://burs.gavremzadevakfi.com/home/index
+https://basvuru.tinaztepevakfi.org 
